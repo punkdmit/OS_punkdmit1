@@ -1,15 +1,11 @@
 #!/bin/bash
-function strlen() {
-echo "Input str" 
-read string
-echo ${#string}
-if [[ $string != 0 ]]
+string="$@"
+if [[ $# == 0 ]]
 then
-echo "succes"
-else
-echo "pls write string"
-fi
+echo "error"
 exit 0
-}
-strlen
+fi
+echo "${#string}"
+exit 0
+
 

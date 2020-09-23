@@ -11,7 +11,7 @@ exit 0
 fi
 
 if ! [[ $1 =~ $re ]]; then
-echo "error not a number" >&2; exit 0
+exit 0
 fi
 
 if ! [ -z $1 ] 

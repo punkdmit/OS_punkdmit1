@@ -10,41 +10,36 @@ connect=0;
 source /home/user/error.sh
 case "$1" in
 calc)
-[ -f "/home/user/tasks/calc.sh" ] || app_confused;
-source /home/user/tasks/calc.sh
+source /home/user/tasks/calc.sh || app_confused;
 [[ $# -ne 4 ]] && err "expected";
 calc $2 $3 $4;
 ;;
 search)
-[ -f "/home/user/tasks/search.sh" ] || app_confused;
-source /home/user/tasks/search.sh
+source /home/user/tasks/search.sh || app_confused;
 [[ $# -ne 3 ]] && err "2 expected";
 search $2 $3;
 ;;
 reverse)
-[ -f "/home/user/tasks/reverse.sh" ] || app_confused;
-source /home/user/tasks/reverse.sh
-reverse;
+#source /home/user/tasks/reverse.sh || app_confused;
+
+sh ./tasks/reverse.sh $2 $3;
 ;;
 strlen)
-[ -f "/home/user/tasks/strlen.sh" ] || app_confused;
-source /home/user/tasks/strlen.sh
-strlen;
+# source /home/user/tasks/strlen.sh || app_confused;
+shift
+sh ./tasks/strlen.sh "$@";
 ;;
 log)
-[ -f "/home/user/tasks/log.sh" ] || app_confused;
-source /home/user/tasks/log.sh
+source /home/user/tasks/log.sh  || app_confused;
 log
 ;;
 exit)
-[ -f "/home/user/tasks/exit.sh" ] || app_confused;
-source /home/user/tasks/exit.sh
+source /home/user/tasks/exit.sh || app_confused;
 [[ $# -ne 1 ]] && [[ $# -ne 2 ]] && err "1 expected";
 exit_ $2;
 ;;
 help)
-[ -f "/home/user/tasks/help.sh" ] || app_confused;
-source /home/user/tasks/help.sh
+source /home/user/tasks/help.sh || app_confused;
 help
 ;;
 interactive)

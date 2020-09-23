@@ -1,7 +1,0 @@
-#!/bin/bash
-reg=$1
-if grep -q "$reg" ./*; then
-grep ["$reg"] ./*
-else
-echo "not found"
-fi

@@ -6,6 +6,6 @@ if grep -q "$reg" "$dir" ; then
 grep -s "$reg" "$dir"
 else
 echo "not found"
+exit 0
 fi
 }
-

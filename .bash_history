@@ -1,258 +1,3 @@
-cmod u+x lab2
-chmod u+x lab2
-./lab2
-nano lab1
-nano lab2
-chmod u+x lab2
-./lab2
-nano lab2
-chmod u+x lab2
-./lab2
-nano lab2
-chmod u+x lab2
-./lab2
-nano lab2
-chmod lab1.2
-./lab1.2
-cmod u+x lab1.2
-chmod u+x lab1.2
-./lab1.2
-nano lab2
-nano lab1.2
-nano lab1
-nano lab1.2
-chmod u+x lab12
-./lab12 #!/bin/bash ./*
-nano lab12
-chmod u+x lab12
-./lab12 #!/bin/bash lab1
-nano lab12
-chmod u+x lab12
-./lab12 #!/bin/bash lab1
-nano lab12
-chmod lab12
-chmod u+x lab12
-./lab12 #!/bin/bash lab1
-nano lab12
-chmod u+x lab12
-./lab12 #!/bin/bash lab1
-./lab12 #!/bin/bash lab12
-clear
-nano lab12
-chmod u+x lab12
-./lab12 #!/bin/bash lab1
-nano lab1
-nano lab12
-chmod u+x lab12
-./lab12
-nano lab12
-nano lab13
-tac --help
-nano lab13
-chmod u+x lab13
-./lab13
-nano test13
-nano lab13
-chmod u+x lab13
-./lab13
-clear]
-clear
-nano lab13
-chmod u+x lab13
-./lab13
-nano test13
-nano lab13
-chmod u+x lab13
-./lab13
-nano lab13
-chmod u+x lab13
-./lab13
-nano lab13
-chmod u+x lab13
-./lab13
-nano test13
-nano lab4
-nano lab13
-nano lab14
-nano lab13
-nano lab14
-chmod u+x lab14
-./lab14 sdnvjdv
-./lab14
-clear
-nano lab14
-chmod u+x lab14
-./lab14
-./lab14 sdnvjdv
-nano lab14
-chmod u+x lab14
-./lab14 sdnvjdv
-./lab14
-nano lab14
-chmod u+x lab14
-./lab14 sdnvjdv
-nano lab14
-chmod u+x lab14
-./lab14 sdnvjdv
-nano lab14
-chmod u+x lab14
-./lab14 sdnvjdv
-nano lab14
-chmod u+x lab14
-./lab14 34
-nano lab14
-chmod u+x lab14
-./lab14 ergfb
-nano lab14
-chmod u+x lab14
-./lab14 ergfb
-./lab14 34
-./lab14
-nano lab14
-chmod u+x lab14
-./lab14 ergfb
-./lab14
-nano lab14
-chmod u+x lab14
-./lab14 ergfb
-nano lab14
-chmod u+x lab14
-./lab14 ergfb
-nano lab14
-chmod u+x lab14
-./lab14 ergfb
-nano lab14
-chmod u+x lab14
-./lab14 ergfb
-./lab14
-nano lab14
-chmod u+x lab14
-./lab14
-./lab14 ffbe
-nano lab14
-chmod u+x lab14
-./lab14 ffbe
-nano lab14
-chmod u+x lab14
-./lab14 ffbe
-./lab14
-nano lab14
-chmod u+x lab14
-./lab14
-nano lab14
-chmod u+x lab14
-./lab14
-nano lab14
-chmod u+x lab14
-./lab14
-sdf gfs
-strlen
-nano lab1
-nano lab2
-chmod u+x lab12
-./lab12
-nano lab12
-nano lab13
-nano lab11
-nano lab1
-nano lab12
-nano lab13
-nano lab14
-nano lab15
-nano lab14
-nano lab13
-nano lab12
-chmod u+x lab12
-./lab12
-nano lab12
-chmod u+x lab12
-./lab12
-nano lab13
-nano lab14
-nano lab15
-nano lab14
-nano lab15
-chmod u+x lab15
-./lab15 exit 4
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-exit
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-1
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-0
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-nano lab1
-chmod u+x lab1
-./lab1 sum 1 1
-nano lab11
-nano lab1
-chmod u+x lab1
-./lab1 sum 1 1
-nano lab1
-chmod u+x lab1
-./lab1 sum 1 1
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-chmod u+x lab15
-./lab15
-nano lab15
-nano test15
-nano lab15
-nano test15
-chmod u+x test15
-./teat15
 ./test15
 nano test15
 chmod u+x test15
@@ -997,4 +742,259 @@ git init
 brew install git
 cd/home/user/share/git
 git init
+exit
+git --version
+cd
+git init
+git add .
+git commit -m "First commit"
+git remote -v
+git remote add origin https://github.com/punkdmit/operating_system_punk.git
+git push origin master
+cd
+ls
+dit rm lab12
+git rm lab12
+rm lab12
+ls
+cd
+nano main.sh
+./main.sh interactive
+nano search.sh
+cd tasks
+nano search.sh
+./search.sh util.sh /home/user/tasks
+cd
+nano main.sh
+./main.sh search util.sh /home/user/tasks
+./main.sh search [1-9] /home/user/tasks
+./main.sh search [1-9]  /home/user/tasks 
+./main.sh search [1-9]  /home/user/tasks/calc.sh 
+./main.sh search [1-9] ./*
+./main.sh search [util.sh] main.sh
+cd tas
+cd tasks
+nano reverse.sh
+cd
+ls
+rm test11
+nano main.sh
+./main.sh reverse
+nano test11
+cd tasks
+nano reverse.sh
+cd
+main.sh
+nano main.sh
+./main.sh reverse
+cd tasks
+cd
+nano test11
+cd 
+ls
+nano util.sh
+cd
+nano main.sh
+./main.sh log
+./main.sh calc div 4 1
+./main.sh help
+./main.sh strlen
+./main.sh exit 1
+./main.sh search
+./main.sh search [1-9] main.sh
+cd tasks
+nano search
+nano search.sh
+nano help.sh
+nano search.sh
+./search.sh [a-b] /home/user/tasks/calc.sh
+nano search.sh
+cd
+nano main.sh
+./main.sh search [a-z] /home/user/tasks/calc.sh
+cd
+main.sh
+nano main.sh
+./main.sh calc div 4 1
+./main.sh calc sub 4 1
+nano main.sh
+./main.sh help
+./main.sh search [a-b] /home/user/tasks/calc.sh
+nano main.sh
+./main.sh reverse
+./main.sh reverse 
+nano main.sh
+./main.sh strlen
+nano main.sh
+./main.sh log
+./main.sh exit 1
+./main.sh exit 
+nano main.sh
+./main.sh help
+nano main.sh
+./main.sh strlen
+./main.sh log
+./main.sh help
+nano main.sh
+cd tasks
+nano help.sh
+ls
+cd
+ls
+nano git
+cd
+ls
+rm git
+rm lab13
+rm lab14
+rm lab15
+rm lab16
+rm lab17
+rm lab18
+rm lab1.save
+rm lab2
+rm lab4
+ls
+rm test11
+rm test13
+nano ficha.sh
+nano util.sh
+nano ficha.sh
+cd
+ls
+rm util.sh
+ls
+cd tasks
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+ls
+nano reverse.sh
+y
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+cd
+nano main.sh
+./main.sh reverse /home/user/tasks/calc.sh test11
+./main.sh reverse calc.sh test11
+cd tasks
+nano help.sh
+nano strlen
+nano strlen.sh
+./reverse.sh dgh
+cd
+nano main.sh
+./main.sh strlen sgr
+cd tasks
+nano strlen.sh
+./strlen.sh sb
+cd
+nano main.sh
+./main.sh strlen sdbv
+cd tasks
+nano strlen.sh
+cd
+nano main.sh
+./main.sh strlen sfb
+cd tasks
+nano strlen.sh
+nano reverse.sh
+cd
+nano main.sh
+./main.sh reverse /home/user/tasks/calc.sh
+./main.sh reverse /home/user/tasks/calc.sh test11
+nano main.sh
+cd tasks
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+cd
+nano main.sh
+./main.sh reverse /home/user/tasks/calc.sh test11
+nano main.sh
+./main.sh reverse /home/user/tasks/calc.sh test11
+nano main.sh
+cd tasks
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+cd
+nano main.sh
+y
+./main.sh reverse /home/user/tasks/calc.sh test11
+./main.sh reverse calc.sh test11
+cd tasks
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+cd
+
+cd tasks
+./main.sh reverse /home/user/tasks/calc.sh test11
+./reverse.sh /home/user/tasks/calc.sh test11
+nano main.sh
+cd
+nano main.sh
+cd tasks
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test11
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test1
+nano reverse.sh
+./reverse.sh calc.sh test1
+cd
+nano main.sh
+./main.sh reverse /home/user/tasks/calc.sh test11
+./main.sh 
+nano main.sh
+./main.sh reverse /home/user/tasks/calc.sh test11
+nano main.sh
+cd tasks
+nano reverse.sh
+./reverse.sh calc.sh test1
+./main.sh reverse /home/user/tasks/calc.sh test11
+./reverse.sh /home/user/tasks/calc.sh test1
+ls
+nano test1
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test1
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test1
+nano test1
+nano reverse.sh
+./reverse.sh calc.sh test1
+./reverse.sh /home/user/tasks/calc.sh test1
+nano revers.sh
+cd tasks
+nano reverse.sh
+./reverse.sh /home/user/tasks/calc.sh test1
+ls
+cat test1
+nano test1
+nano reverse.sh
+cd
+nano main.sh
+./main.sh reverse /home/user/tasks/calc.sh test1
+cd tasks
+cat test1
+nano test1
+cd tasks
+cd
 exit

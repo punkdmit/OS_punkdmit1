@@ -1,5 +1,5 @@
 #!/bin/bash
-function calc() {
+function calc(){
 calcc=$1
 num1=$2
 num2=$3
@@ -21,10 +21,8 @@ echo $(($num1/$num2))
 exit 0
 ;;
 *)
-echo 'mistake, u should write correct num or key'
+echo 'mistake'
 exit 0
 ;;
 esac
 }
-
-
