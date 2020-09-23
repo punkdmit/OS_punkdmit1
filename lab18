@@ -1,0 +1,32 @@
+#!/bin/bash
+option=$1
+case $option in
+calc)
+xdg-open $lab1
+;;
+search)
+
+;;
+reverse)
+
+;;
+strlen)
+
+;;
+log)
+
+;;
+exit)
+
+;;
+help)
+
+;;
+interactive)
+
+;;
+*)
+echo "Write correct arg"
+exit 1
+;;
+esac

@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "exit [Y,n]"
+echo "0 [X,n]"
+read input
+read num
+if [[ $input == "Y" || $input == "y" && $num == "X" || $num == "x" ]]; then
+exit 0
+else
+exit 1
+fi 
