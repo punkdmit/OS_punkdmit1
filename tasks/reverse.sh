@@ -8,6 +8,7 @@ file_exist "$file1" && err1 "Can't find first file" 6;
 tac "$file1" > "$file2"
 if [[ -s "$file2" ]]
 then
+cat "$file2"
 echo "success"
 else
 echo "failed"
