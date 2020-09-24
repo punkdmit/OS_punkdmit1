@@ -1,11 +1,12 @@
 #!/bin/bash
+source ./tasks/error.sh
+
 string="$@"
 if [[ $# == 0 ]]
 then
-echo "error"
-exit 0
+err1 "Missed string" 3;
 fi
-echo "${#string}"
+echo "Long: ${#string}"
 exit 0
 
 

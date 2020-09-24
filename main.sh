@@ -1,56 +1,58 @@
 #!/bin/bash
 function app_confused(){
-echo "error app confused";
-exit 2;
+echo "error app confused, can't find file";
+echo "5"
+exit 5;
 }
-[ -f "/home/user/error.sh" ] || app_confused;
+[ -f "./tasks/error.sh" ] || app_confused;
 
 
 connect=0;
-source /home/user/error.sh
+source ./tasks/error.sh
 case "$1" in
 calc)
-source /home/user/tasks/calc.sh || app_confused;
-[[ $# -ne 4 ]] && err "expected";
-calc $2 $3 $4;
+[ -f "./tasks/calc.sh" ] || app_confused;
+[[ $# -ne 4 ]] && err "4 arg expected" 3;
+sh ./tasks/calc.sh $2 $3 $4 
 ;;
 search)
-source /home/user/tasks/search.sh || app_confused;
-[[ $# -ne 3 ]] && err "2 expected";
+source ./tasks/search.sh || app_confused;
+#[[ $# -ne 3 ]] && err "3 arg expected" 3;
 search $2 $3;
 ;;
 reverse)
-#source /home/user/tasks/reverse.sh || app_confused;
-
-sh ./tasks/reverse.sh $2 $3;
+[ -f "./tasks/reverse.sh" ] || app_confused;
+[[ $# -ne 3 ]] && err "need 3 args";
+sh ./tasks/reverse.sh $2 $3; 
 ;;
 strlen)
-# source /home/user/tasks/strlen.sh || app_confused;
+[ -f "./tasks/strlen.sh" ] || app_confused;
+[[ $# == 1 ]] && err "Write string" 3;
 shift
 sh ./tasks/strlen.sh "$@";
 ;;
 log)
-source /home/user/tasks/log.sh  || app_confused;
+source ./tasks/log.sh  || app_confused;
+[[ $# -ne 1 ]] && err "1 expected" 3; 
 log
 ;;
 exit)
-source /home/user/tasks/exit.sh || app_confused;
-[[ $# -ne 1 ]] && [[ $# -ne 2 ]] && err "1 expected";
+source ./tasks/exit.sh || app_confused;
+[[ $# -ne 1 ]] && [[ $# -ne 2 ]] && err "1 expected" 3;
 exit_ $2;
 ;;
 help)
-source /home/user/tasks/help.sh || app_confused;
-help
+source ./tasks/help.sh || app_confused;
+[[ $# -ne 1 ]] && err "1 expected" 3;
+help 
 ;;
 interactive)
-echo "Sorry its don't work" &>2;
-app_confused
-exit 2;
+app_confused 
 connect=1;
 interactive
 ;;
 *) 
-err "mistake write command" 1
+err "Write right case key" 69; # kod dlya nevernogo argumenta
 
 esac
 

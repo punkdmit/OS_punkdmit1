@@ -1,28 +1,40 @@
 #!/bin/bash
-function calc(){
-calcc=$1
-num1=$2
-num2=$3
+source ./tasks/error.sh
+calcc="$1"
+num1="$2"
+num2="$3"
+
+if [ -z $num1 ] && [ -z $num2 ]; then
+err1 "Write two args" 3
+elif [ -z $num1 ] ; then
+err1 "Write second arg" 3
+elif [ -z $num2 ] ; then
+err1 "Write third arg" 3
+fi
+
 case $calcc in
 sum)
-echo $(($num1+$num2))
-exit 1
+let "result = $num1 + $num2"
+echo $result
+exit 0
 ;;
 sub)
-echo $(($num1-$num2))
+let "result = $num1 - $num2"
+echo $result
 exit 0
 ;;
 mul)
-echo $(($num1*$num2))
+let "result = $num1 * $num2"
+echo $result
 exit 0
 ;;
 div)
-echo $(($num1/$num2))
+let "result = $num1 / $num2"
+echo $result
 exit 0
 ;;
 *)
-echo 'mistake'
-exit 0
+err1 "Choose right case" 3;
 ;;
 esac
-}
+
