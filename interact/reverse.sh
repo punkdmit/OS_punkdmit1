@@ -18,8 +18,8 @@ printError 'Missing output file'
 fi
 file_exist "$inputName" && clear && printError "first file doesn't exist"  && ~/interact/interactive.sh
 ! isReadable "$inputName" && clear && printError "first file isn't readable" && ~/interact/interactive.sh
-#isFileExists "$2" && ! isWritable "$2" && clear &&
-#printError "File $2 isn't writable" && ~/inter/interactive/interactive.sh
+isFileExists "$2" && ! isWritable "$2" && clear &&
+printError "File $2 isn't writable" && ~/inter/interactive/interactive.sh
 [[ "$inputName" = "$outputName" ]] && tac "$inputName" | rev > TMP && mv TMP "$outputName" || tac "$inputName" | rev > "$outputName"
 # tac "$inputName" > "$outputName"
 clear
