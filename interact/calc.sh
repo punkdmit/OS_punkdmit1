@@ -10,6 +10,11 @@ if [[ -z "$action" ]] ; then
   printError "Missing action"
   ~/interact/interactive.sh
 fi
+#if [ "$action" = "sum" ] || [ "$action" != "div" ] || [ "$action" != "sub" ] || [ "$action" != "mul" ] ; then
+#clear
+#printError "Choose right action"
+#~/interact/interactive.sh
+#fi
 echo "Insert First Number:"
 read arg1;
 if [[ -z "$arg1" ]] ; then

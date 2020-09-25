@@ -14,7 +14,7 @@ clear
 printError "Missing pattern"
 ~/interact/interactive.sh
 fi
-file_exist $dirname && clear && printError "$dirname is not a directory" && ~/interact/interactive.sh
+dir_exist $dirname && clear && printError "$dirname is not a directory" && ~/interact/interactive.sh
 grep -r $whatToFind $dirname 
 #2> /dev/null | cut -d: -f2
 ~/interact/interactive.sh

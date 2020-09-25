@@ -15,9 +15,14 @@ let "res = $1 * $2"
 echo $res
 }
 function div(){
-[[ "$2" -eq "0" ]] && errorExit "because zero" 2;
+if
+[[ "$2" -eq "0" ]] 
+then
+printError "Error:can't use zero";
+else
 let "res = $1 / $2"
 echo $res
+fi
 }
 
 function isExists() {

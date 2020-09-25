@@ -1,0 +1,47 @@
+hs.evitcaretni/tcaretni/~
+case
+;;
+"noitca gnorW" rorrEtnirp
+)*
+;;
+2gra$ 1gra$ vid
+)vid
+;;
+2gra$ 1gra$ lum
+)lum
+;;
+2gra$ 1gra$ bus
+)bus
+;;
+2gra$ 1gra$ mus
+)mus
+ni "noitca$" esac
+raelc
+hs.evitcaretni/tcaretni/~ && "NAN si 2gra$" rorrEtnirp && raelc && ]] "0" == )2gra$ naNsi($ [[
+if
+hs.evitcaretni/tcaretni/~  
+"rebmuN tsriF gnissiM" rorrEtnirp  
+raelc  
+neht ; ]] "2gra$" z- [[ fi
+;2gra daer
+":rebmuN dnoceS tresnI" ohce
+hs.evitcaretni/tcaretni/~ && "NAN si 1gra$" rorrEtnirp && raelc && ]] "0" == )1gra$ naNsi($ [[
+if
+hs.evitcaretni/tcaretni/~  
+"rebmuN tsriF gnissiM" rorrEtnirp  
+raelc  
+neht ; ]] "1gra$" z- [[ fi
+;1gra daer
+":rebmuN tsriF tresnI" ohce
+if
+hs.evitcaretni/tcaretni/~  
+"noitca gnissiM" rorrEtnirp  
+raelc  
+neht ; ]] "noitca$" z- [[ fi
+;noitca daer
+":noitca tresnI" ohce
+"vidn\lumn\busn\musn\:snoitcAn\ROTALUCLAC" e- ohce
+raelc
+hs.rorre/sksat/~ ecruos
+hs.ahcif/sksat/~ ecruos
+hsab/nib/!#

@@ -1,7 +1,7 @@
 #!/bin/bash
 source ~/tasks/ficha.sh
 source ~/tasks/error.sh
-echo "Insert Input Filename:"
+echo "Insert Input file path:"
 read inputName;
 echo "Insert Output filename:"
 read outputName;

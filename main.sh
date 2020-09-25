@@ -48,7 +48,7 @@ help
 ;;
 interactive)
 [[ $# -ne 1 ]] && err "1 expected" 3;
-sh ~/inter/interactive/interactive.sh;
+sh ~/interact/interactive.sh;
 connect=1;
 ;;
 *) 
