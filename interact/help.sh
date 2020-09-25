@@ -9,6 +9,6 @@ echo -e "exit-Аргументы:\n[code]\nЗавершает работу с з
 echo -e "Как использовать: ./main.sh [ключ] [аргументы...]\n\nКлючи:\ncalc\tsearch\treverse\tstrlen\tlog\texit\n"
 #echo -e Для подробной информации по ключам и их аргументам пишите: ./main.sh help [key]\n"
 echo -e "Коды ошибок:\n3 - неправильный или пустой аргумент\n2 - деление на 0\n6 - папка не найдена\n9 - нет прав на чтение\n8 - нет прав на запись\n7 - директория не найдена\n69 - недоступный ключ"
-~/interact/interactive.sh
+./interact/interactive.sh
 }
 help

@@ -1,8 +1,8 @@
 #!/bin/bash
 echo "Insert Return Code:"
 read code;
-source ~/tasks/ficha.sh
-source ~/tasks/error.sh
+source ./tasks/ficha.sh
+source ./tasks/error.sh
 if [ -z "$code" ] ; then
 echo "Exiting with code: 0"
 exit 0
