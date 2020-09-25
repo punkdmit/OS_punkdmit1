@@ -8,13 +8,13 @@ read whatToFind;
 if [[ -z $dirname ]] ; then
 clear
 printError "Missing directory"
-~/inter/interactive/interactive.sh
+~/interact/interactive.sh
 elif [[ -z $whatToFind ]] ; then
 clear
 printError "Missing pattern"
-~/inter/interactive/interactive.sh
+~/interact/interactive.sh
 fi
-file_exist $dirname && clear && printError "$dirname is not a directory" && ~/inter/interactive/interactive.sh
+file_exist $dirname && clear && printError "$dirname is not a directory" && ~/interact/interactive.sh
 grep -r $whatToFind $dirname 
 #2> /dev/null | cut -d: -f2
-~/inter/interactive/interactive.sh
+~/interact/interactive.sh

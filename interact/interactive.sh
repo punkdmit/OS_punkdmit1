@@ -6,25 +6,25 @@ echo "INPUT KEY:"
 read key
 case "$key" in
 calc | c)
- ~/inter/interactive/calc.sh
+ ~/interact/calc.sh
 ;;
 search | s)
-~/inter/interactive/search.sh
+~/interact/search.sh
 ;;
 strlen | st)
-~/inter/interactive/strlen.sh
+~/interact/strlen.sh
 ;;
 log | l)
-~/inter/interactive/log.sh
+~/interact/log.sh
 ;;
 exit | e)
-~/inter/interactive/exit.sh
+~/interact/exit.sh
 ;;
 reverse | r)
-~/inter/interactive/reverse.sh
+~/interact/reverse.sh
 ;;
 help | h)
-~/inter/interactive/help.sh
+~/interact/help.sh
 ;;
 *)
 clear

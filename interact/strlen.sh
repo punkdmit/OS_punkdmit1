@@ -4,6 +4,6 @@ source ~/tasks/error.sh
 echo "Insert string:"
 read string
 str=${#string}
-[[ -z "$string" ]] && printError "Missing string" 1 && ~/inter/interactive/interactive.sh
+[[ -z "$string" ]] && printError "Missing string" 1 && ~/interact/interactive.sh
 echo ${#string}
-~/inter/interactive/interactive.sh
+~/interact/interactive.sh
