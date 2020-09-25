@@ -47,9 +47,9 @@ source ./tasks/help.sh || app_confused;
 help 
 ;;
 interactive)
-app_confused 
+[[ $# -ne 1 ]] && err "1 expected" 3;
+sh ~/inter/interactive/interactive.sh;
 connect=1;
-interactive
 ;;
 *) 
 err "Write right case key" 69; # kod dlya nevernogo argumenta

@@ -29,6 +29,15 @@ echo $result
 exit 0
 ;;
 div)
+if 
+[[ $num1 == 0 ]] || [[ $num1 == -0 ]] || [[ $num1 == +0 ]]
+then
+err1 "Can't use 0" 3;
+elif 
+[[ $num2 == 0 ]] || [[ $num2 == +0 ]] || [[ $num2 == -0 ]]
+then
+err1 "Can't use 0" 3;
+fi
 let "result = $num1 / $num2"
 echo $result
 exit 0
