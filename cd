@@ -1,0 +1,2226 @@
+[33mcommit 45799fcb795ae42afabb3f9804429b3e9015e239[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: user <user@localhost.localdomain>
+Date:   Thu Sep 24 02:42:34 2020 +0300
+
+    sdvbd
+
+[1mdiff --git a/a.txt b/a.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 71baf7a391c06b69544ba0d6f24f7bce45a26301[m
+Author: user <user@localhost.localdomain>
+Date:   Thu Sep 24 02:13:30 2020 +0300
+
+    First commit
+
+[1mdiff --git a/.bash_history b/.bash_history[m
+[1mindex fecfdb6..658e9f9 100644[m
+[1m--- a/.bash_history[m
+[1m+++ b/.bash_history[m
+[36m@@ -1,258 +1,3 @@[m
+[31m-cmod u+x lab2[m
+[31m-chmod u+x lab2[m
+[31m-./lab2[m
+[31m-nano lab1[m
+[31m-nano lab2[m
+[31m-chmod u+x lab2[m
+[31m-./lab2[m
+[31m-nano lab2[m
+[31m-chmod u+x lab2[m
+[31m-./lab2[m
+[31m-nano lab2[m
+[31m-chmod u+x lab2[m
+[31m-./lab2[m
+[31m-nano lab2[m
+[31m-chmod lab1.2[m
+[31m-./lab1.2[m
+[31m-cmod u+x lab1.2[m
+[31m-chmod u+x lab1.2[m
+[31m-./lab1.2[m
+[31m-nano lab2[m
+[31m-nano lab1.2[m
+[31m-nano lab1[m
+[31m-nano lab1.2[m
+[31m-chmod u+x lab12[m
+[31m-./lab12 #!/bin/bash ./*[m
+[31m-nano lab12[m
+[31m-chmod u+x lab12[m
+[31m-./lab12 #!/bin/bash lab1[m
+[31m-nano lab12[m
+[31m-chmod u+x lab12[m
+[31m-./lab12 #!/bin/bash lab1[m
+[31m-nano lab12[m
+[31m-chmod lab12[m
+[31m-chmod u+x lab12[m
+[31m-./lab12 #!/bin/bash lab1[m
+[31m-nano lab12[m
+[31m-chmod u+x lab12[m
+[31m-./lab12 #!/bin/bash lab1[m
+[31m-./lab12 #!/bin/bash lab12[m
+[31m-clear[m
+[31m-nano lab12[m
+[31m-chmod u+x lab12[m
+[31m-./lab12 #!/bin/bash lab1[m
+[31m-nano lab1[m
+[31m-nano lab12[m
+[31m-chmod u+x lab12[m
+[31m-./lab12[m
+[31m-nano lab12[m
+[31m-nano lab13[m
+[31m-tac --help[m
+[31m-nano lab13[m
+[31m-chmod u+x lab13[m
+[31m-./lab13[m
+[31m-nano test13[m
+[31m-nano lab13[m
+[31m-chmod u+x lab13[m
+[31m-./lab13[m
+[31m-clear][m
+[31m-clear[m
+[31m-nano lab13[m
+[31m-chmod u+x lab13[m
+[31m-./lab13[m
+[31m-nano test13[m
+[31m-nano lab13[m
+[31m-chmod u+x lab13[m
+[31m-./lab13[m
+[31m-nano lab13[m
+[31m-chmod u+x lab13[m
+[31m-./lab13[m
+[31m-nano lab13[m
+[31m-chmod u+x lab13[m
+[31m-./lab13[m
+[31m-nano test13[m
+[31m-nano lab4[m
+[31m-nano lab13[m
+[31m-nano lab14[m
+[31m-nano lab13[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 sdnvjdv[m
+[31m-./lab14[m
+[31m-clear[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14[m
+[31m-./lab14 sdnvjdv[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 sdnvjdv[m
+[31m-./lab14[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 sdnvjdv[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 sdnvjdv[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 sdnvjdv[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 34[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 ergfb[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 ergfb[m
+[31m-./lab14 34[m
+[31m-./lab14[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 ergfb[m
+[31m-./lab14[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 ergfb[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 ergfb[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 ergfb[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 ergfb[m
+[31m-./lab14[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14[m
+[31m-./lab14 ffbe[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 ffbe[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14 ffbe[m
+[31m-./lab14[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14[m
+[31m-nano lab14[m
+[31m-chmod u+x lab14[m
+[31m-./lab14[m
+[31m-sdf gfs[m
+[31m-strlen[m
+[31m-nano lab1[m
+[31m-nano lab2[m
+[31m-chmod u+x lab12[m
+[31m-./lab12[m
+[31m-nano lab12[m
+[31m-nano lab13[m
+[31m-nano lab11[m
+[31m-nano lab1[m
+[31m-nano lab12[m
+[31m-nano lab13[m
+[31m-nano lab14[m
+[31m-nano lab15[m
+[31m-nano lab14[m
+[31m-nano lab13[m
+[31m-nano lab12[m
+[31m-chmod u+x lab12[m
+[31m-./lab12[m
+[31m-nano lab12[m
+[31m-chmod u+x lab12[m
+[31m-./lab12[m
+[31m-nano lab13[m
+[31m-nano lab14[m
+[31m-nano lab15[m
+[31m-nano lab14[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15 exit 4[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-exit[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-1[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-0[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-nano lab1[m
+[31m-chmod u+x lab1[m
+[31m-./lab1 sum 1 1[m
+[31m-nano lab11[m
+[31m-nano lab1[m
+[31m-chmod u+x lab1[m
+[31m-./lab1 sum 1 1[m
+[31m-nano lab1[m
+[31m-chmod u+x lab1[m
+[31m-./lab1 sum 1 1[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-chmod u+x lab15[m
+[31m-./lab15[m
+[31m-nano lab15[m
+[31m-nano test15[m
+[31m-nano lab15[m
+[31m-nano test15[m
+[31m-chmod u+x test15[m
+[31m-./teat15[m
+ ./test15[m
+ nano test15[m
+ chmod u+x test15[m
+[36m@@ -998,3 +743,258 @@[m [mbrew install git[m
+ cd/home/user/share/git[m
+ git init[m
+ exit[m
+[32m+[m[32mgit --version[m
+[32m+[m[32mcd[m
+[32m+[m[32mgit init[m
+[32m+[m[32mgit add .[m
+[32m+[m[32mgit commit -m "First commit"[m
+[32m+[m[32mgit remote -v[m
+[32m+[m[32mgit remote add origin https://github.com/punkdmit/operating_system_punk.git[m
+[32m+[m[32mgit push origin master[m
+[32m+[m[32mcd[m
+[32m+[m[32mls[m
+[32m+[m[32mdit rm lab12[m
+[32m+[m[32mgit rm lab12[m
+[32m+[m[32mrm lab12[m
+[32m+[m[32mls[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh interactive[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh util.sh /home/user/tasks[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search util.sh /home/user/tasks[m
+[32m+[m[32m./main.sh search [1-9] /home/user/tasks[m
+[32m+[m[32m./main.sh search [1-9]  /home/user/tasks[m[41m [m
+[32m+[m[32m./main.sh search [1-9]  /home/user/tasks/calc.sh[m[41m [m
+[32m+[m[32m./main.sh search [1-9] ./*[m
+[32m+[m[32m./main.sh search [util.sh] main.sh[m
+[32m+[m[32mcd tas[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mls[m
+[32m+[m[32mrm test11[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m
+[32m+[m[32mnano test11[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mmain.sh[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano test11[m
+[32m+[m[32mcd[m[41m [m
+[32m+[m[32mls[m
+[32m+[m[32mnano util.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh log[m
+[32m+[m[32m./main.sh calc div 4 1[m
+[32m+[m[32m./main.sh help[m
+[32m+[m[32m./main.sh strlen[m
+[32m+[m[32m./main.sh exit 1[m
+[32m+[m[32m./main.sh search[m
+[32m+[m[32m./main.sh search [1-9] main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mnano help.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh [a-b] /home/user/tasks/calc.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search [a-z] /home/user/tasks/calc.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mmain.sh[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh calc div 4 1[m
+[32m+[m[32m./main.sh calc sub 4 1[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh help[m
+[32m+[m[32m./main.sh search [a-b] /home/user/tasks/calc.sh[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m
+[32m+[m[32m./main.sh reverse[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh strlen[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh log[m
+[32m+[m[32m./main.sh exit 1[m
+[32m+[m[32m./main.sh exit[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh help[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh strlen[m
+[32m+[m[32m./main.sh log[m
+[32m+[m[32m./main.sh help[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano help.sh[m
+[32m+[m[32mls[m
+[32m+[m[32mcd[m
+[32m+[m[32mls[m
+[32m+[m[32mnano git[m
+[32m+[m[32mcd[m
+[32m+[m[32mls[m
+[32m+[m[32mrm git[m
+[32m+[m[32mrm lab13[m
+[32m+[m[32mrm lab14[m
+[32m+[m[32mrm lab15[m
+[32m+[m[32mrm lab16[m
+[32m+[m[32mrm lab17[m
+[32m+[m[32mrm lab18[m
+[32m+[m[32mrm lab1.save[m
+[32m+[m[32mrm lab2[m
+[32m+[m[32mrm lab4[m
+[32m+[m[32mls[m
+[32m+[m[32mrm test11[m
+[32m+[m[32mrm test13[m
+[32m+[m[32mnano ficha.sh[m
+[32m+[m[32mnano util.sh[m
+[32m+[m[32mnano ficha.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mls[m
+[32m+[m[32mrm util.sh[m
+[32m+[m[32mls[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mls[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32my[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh test11[m
+[32m+[m[32m./main.sh reverse calc.sh test11[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano help.sh[m
+[32m+[m[32mnano strlen[m
+[32m+[m[32mnano strlen.sh[m
+[32m+[m[32m./reverse.sh dgh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh strlen sgr[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano strlen.sh[m
+[32m+[m[32m./strlen.sh sb[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh strlen sdbv[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano strlen.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh strlen sfb[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano strlen.sh[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32my[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh test11[m
+[32m+[m[32m./main.sh reverse calc.sh test11[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mcd[m
+[32m+[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh test11[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test1[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh calc.sh test1[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh test11[m
+[32m+[m[32m./main.sh[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh test11[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh calc.sh test1[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh test11[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test1[m
+[32m+[m[32mls[m
+[32m+[m[32mnano test1[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test1[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test1[m
+[32m+[m[32mnano test1[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh calc.sh test1[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test1[m
+[32m+[m[32mnano revers.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh /home/user/tasks/calc.sh test1[m
+[32m+[m[32mls[m
+[32m+[m[32mcat test1[m
+[32m+[m[32mnano test1[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse /home/user/tasks/calc.sh test1[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mcat test1[m
+[32m+[m[32mnano test1[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mcd[m
+[32m+[m[32mexit[m
+[1mdiff --git a/util.sh b/ficha.sh[m
+[1msimilarity index 100%[m
+[1mrename from util.sh[m
+[1mrename to ficha.sh[m
+[1mdiff --git a/lab1.save b/lab1.save[m
+[1mdeleted file mode 100644[m
+[1mindex ba778f4..0000000[m
+[1m--- a/lab1.save[m
+[1m+++ /dev/null[m
+[36m@@ -1,28 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-option=$1[m
+[31m-chislo1=$2[m
+[31m-chislo2=$3[m
+[31m-case $option in [m
+[31m-sum)[m
+[31m-echo $(($chislo1+$chislo2))[m
+[31m-exit 0[m
+[31m-;;[m
+[31m-dif)[m
+[31m-echo $(($chislo1-$chislo2))[m
+[31m-exit 0[m
+[31m-;;[m
+[31m-/)[m
+[31m-echo $(($chislo1/$chislo2))[m
+[31m-exit 0[m
+[31m-;;[m
+[31m-umn)[m
+[31m-echo $(($chislo1*$chislo2))[m
+[31m-exit 0[m
+[31m-;;[m
+[31m-*)[m
+[31m-echo 'mistake'[m
+[31m-exit 0[m
+[31m-;;[m
+[31m-esac[m
+[31m-[m
+[31m-[m
+[1mdiff --git a/lab12 b/lab12[m
+[1mdeleted file mode 100755[m
+[1mindex 775fabf..0000000[m
+[1m--- a/lab12[m
+[1m+++ /dev/null[m
+[36m@@ -1,7 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-reg=$1[m
+[31m-if grep -q "$reg" ./*; then[m
+[31m-grep ["$reg"] ./*[m
+[31m-else[m
+[31m-echo "not found"[m
+[31m-fi[m
+[1mdiff --git a/lab13 b/lab13[m
+[1mdeleted file mode 100755[m
+[1mindex 4fea0d8..0000000[m
+[1m--- a/lab13[m
+[1m+++ /dev/null[m
+[36m@@ -1,10 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-read file1[m
+[31m-read file2[m
+[31m-tac $file1 > $file2[m
+[31m-if [ -s $test13 ][m
+[31m-then[m
+[31m-echo "success"[m
+[31m-else[m
+[31m-echo "failed, sorry"[m
+[31m-fi[m
+[1mdiff --git a/lab14 b/lab14[m
+[1mdeleted file mode 100755[m
+[1mindex 1dda352..0000000[m
+[1m--- a/lab14[m
+[1m+++ /dev/null[m
+[36m@@ -1,13 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-strlen() {[m
+[31m-read VAR[m
+[31m-echo ${#VAR}[m
+[31m-if [[ ${#VAR} != 0 ]][m
+[31m-then[m
+[31m-echo "succes"[m
+[31m-else[m
+[31m-echo "pls write string"[m
+[31m-fi[m
+[31m-}[m
+[31m-strlen[m
+[31m-[m
+[1mdiff --git a/lab15 b/lab15[m
+[1mdeleted file mode 100755[m
+[1mindex 968c432..0000000[m
+[1m--- a/lab15[m
+[1m+++ /dev/null[m
+[36m@@ -1,8 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-word=$1[m
+[31m-if [[ "$word" != 0 ]] [m
+[31m-then[m
+[31m-exit 0[m
+[31m-else[m
+[31m-exit 1[m
+[31m-fi[m
+[1mdiff --git a/lab16 b/lab16[m
+[1mdeleted file mode 100755[m
+[1mindex 5b52d76..0000000[m
+[1m--- a/lab16[m
+[1m+++ /dev/null[m
+[36m@@ -1,23 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-[m
+[31m-read word[m
+[31m-read num[m
+[31m-[m
+[31m-re='^[0-9]+$'[m
+[31m-if ! [[ $num =~ $re ]] ; then[m
+[31m-echo "error not a number" >&2; exit 0[m
+[31m-fi[m
+[31m-[m
+[31m-if [[ $word != "exit" ]][m
+[31m-then[m
+[31m-echo "uncorrect arg"[m
+[31m-elif ! [ -z $num ] [m
+[31m-then[m
+[31m-echo $num[m
+[31m-exit $num[m
+[31m-else[m
+[31m-echo "0"[m
+[31m-exit 0[m
+[31m-fi[m
+[31m-[m
+[31m-[m
+[1mdiff --git a/lab17 b/lab17[m
+[1mdeleted file mode 100755[m
+[1mindex b6ddb3f..0000000[m
+[1m--- a/lab17[m
+[1m+++ /dev/null[m
+[36m@@ -1,19 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-read arg[m
+[31m-if [[ $arg != "help" ]][m
+[31m-then[m
+[31m-echo "write correct arg - help"[m
+[31m-echo 1[m
+[31m-exit 1[m
+[31m-[m
+[31m-else [m
+[31m-echo "I will show u all moves and keys: "[m
+[31m-echo '1. calc (sum/sub/mul/div; $num1; $num2)'[m
+[31m-echo '2. search ($reg)'[m
+[31m-echo '3. reverse ($file1; $file2)'[m
+[31m-echo '4. strlen ($str)'[m
+[31m-echo '5. '[m
+[31m-echo '6. exit ($word; $num)'[m
+[31m-echo '7. help ($arg)'[m
+[31m-echo '8. interactive ()'[m
+[31m-fi[m
+[1mdiff --git a/lab18 b/lab18[m
+[1mdeleted file mode 100755[m
+[1mindex 45175e1..0000000[m
+[1m--- a/lab18[m
+[1m+++ /dev/null[m
+[36m@@ -1,32 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-option=$1[m
+[31m-case $option in[m
+[31m-calc)[m
+[31m-xdg-open $lab1[m
+[31m-;;[m
+[31m-search)[m
+[31m-[m
+[31m-;;[m
+[31m-reverse)[m
+[31m-[m
+[31m-;;[m
+[31m-strlen)[m
+[31m-[m
+[31m-;;[m
+[31m-log)[m
+[31m-[m
+[31m-;;[m
+[31m-exit)[m
+[31m-[m
+[31m-;;[m
+[31m-help)[m
+[31m-[m
+[31m-;;[m
+[31m-interactive)[m
+[31m-[m
+[31m-;;[m
+[31m-*)[m
+[31m-echo "Write correct arg"[m
+[31m-exit 1[m
+[31m-;;[m
+[31m-esac[m
+[1mdiff --git a/lab2 b/lab2[m
+[1mdeleted file mode 100755[m
+[1mindex 3c19f38..0000000[m
+[1m--- a/lab2[m
+[1m+++ /dev/null[m
+[36m@@ -1,3 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-grep -c '#!/bin/bash' ls[m
+[31m-[m
+[1mdiff --git a/lab4 b/lab4[m
+[1mdeleted file mode 100644[m
+[1mindex cc56ace..0000000[m
+[1m--- a/lab4[m
+[1m+++ /dev/null[m
+[36m@@ -1,3 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-str=$1[m
+[31m-$ echo "str" | awk '{print length}'[m
+[1mdiff --git a/main.sh b/main.sh[m
+[1mindex da1e001..befc5a2 100755[m
+[1m--- a/main.sh[m
+[1m+++ b/main.sh[m
+[36m@@ -10,41 +10,36 @@[m [mconnect=0;[m
+ source /home/user/error.sh[m
+ case "$1" in[m
+ calc)[m
+[31m-[ -f "/home/user/tasks/calc.sh" ] || app_confused;[m
+[31m-source /home/user/tasks/calc.sh[m
+[32m+[m[32msource /home/user/tasks/calc.sh || app_confused;[m
+ [[ $# -ne 4 ]] && err "expected";[m
+ calc $2 $3 $4;[m
+ ;;[m
+ search)[m
+[31m-[ -f "/home/user/tasks/search.sh" ] || app_confused;[m
+[31m-source /home/user/tasks/search.sh[m
+[32m+[m[32msource /home/user/tasks/search.sh || app_confused;[m
+ [[ $# -ne 3 ]] && err "2 expected";[m
+ search $2 $3;[m
+ ;;[m
+ reverse)[m
+[31m-[ -f "/home/user/tasks/reverse.sh" ] || app_confused;[m
+[31m-source /home/user/tasks/reverse.sh[m
+[31m-reverse;[m
+[32m+[m[32m#source /home/user/tasks/reverse.sh || app_confused;[m
+[32m+[m
+[32m+[m[32msh ./tasks/reverse.sh $2 $3;[m
+ ;;[m
+ strlen)[m
+[31m-[ -f "/home/user/tasks/strlen.sh" ] || app_confused;[m
+[31m-source /home/user/tasks/strlen.sh[m
+[31m-strlen;[m
+[32m+[m[32m# source /home/user/tasks/strlen.sh || app_confused;[m
+[32m+[m[32mshift[m
+[32m+[m[32msh ./tasks/strlen.sh "$@";[m
+ ;;[m
+ log)[m
+[31m-[ -f "/home/user/tasks/log.sh" ] || app_confused;[m
+[31m-source /home/user/tasks/log.sh[m
+[32m+[m[32msource /home/user/tasks/log.sh  || app_confused;[m
+ log[m
+ ;;[m
+ exit)[m
+[31m-[ -f "/home/user/tasks/exit.sh" ] || app_confused;[m
+[31m-source /home/user/tasks/exit.sh[m
+[32m+[m[32msource /home/user/tasks/exit.sh || app_confused;[m
+ [[ $# -ne 1 ]] && [[ $# -ne 2 ]] && err "1 expected";[m
+ exit_ $2;[m
+ ;;[m
+ help)[m
+[31m-[ -f "/home/user/tasks/help.sh" ] || app_confused;[m
+[31m-source /home/user/tasks/help.sh[m
+[32m+[m[32msource /home/user/tasks/help.sh || app_confused;[m
+ help[m
+ ;;[m
+ interactive)[m
+[1mdiff --git a/tasks/calc.sh b/tasks/calc.sh[m
+[1mindex d8d99e6..eb62b03 100755[m
+[1m--- a/tasks/calc.sh[m
+[1m+++ b/tasks/calc.sh[m
+[36m@@ -1,5 +1,5 @@[m
+ #!/bin/bash[m
+[31m-function calc() {[m
+[32m+[m[32mfunction calc(){[m
+ calcc=$1[m
+ num1=$2[m
+ num2=$3[m
+[36m@@ -21,10 +21,8 @@[m [mecho $(($num1/$num2))[m
+ exit 0[m
+ ;;[m
+ *)[m
+[31m-echo 'mistake, u should write correct num or key'[m
+[32m+[m[32mecho 'mistake'[m
+ exit 0[m
+ ;;[m
+ esac[m
+ }[m
+[31m-[m
+[31m-[m
+[1mdiff --git a/tasks/exit.sh b/tasks/exit.sh[m
+[1mindex 3326804..1f20855 100755[m
+[1m--- a/tasks/exit.sh[m
+[1m+++ b/tasks/exit.sh[m
+[36m@@ -11,7 +11,7 @@[m [mexit 0[m
+ fi[m
+ [m
+ if ! [[ $1 =~ $re ]]; then[m
+[31m-echo "error not a number" >&2; exit 0[m
+[32m+[m[32mexit 0[m
+ fi[m
+ [m
+ if ! [ -z $1 ] [m
+[1mdiff --git a/tasks/help.sh b/tasks/help.sh[m
+[1mindex 4b5f595..35b7413 100755[m
+[1m--- a/tasks/help.sh[m
+[1m+++ b/tasks/help.sh[m
+[36m@@ -1,13 +1,18 @@[m
+ #!/bin/bash[m
+ [m
+ function help(){[m
+[31m-echo "I will show u all moves and keys: "[m
+[31m-echo '1. calc (sum/sub/mul/div; $num1; $num2)'[m
+[31m-echo '2. search ($reg)'[m
+[31m-echo '3. reverse (by ENTER: $file1; $file2)'[m
+[31m-echo '4. strlen (by ENTER: $str)'[m
+[31m-echo '5. log (output info about x.log file)'[m
+[31m-echo '6. exit ($num)'[m
+[31m-echo '7. help ($arg)'[m
+[31m-echo '8. interactive ()'[m
+[32m+[m[32mecho -e "I will show u all moves and keys: "[m
+[32m+[m[32mecho -e '1. calc (sum/sub/mul/div; $num1; $num2)'[m
+[32m+[m[32mecho -e '2. search ($reg with []; $dir)'[m
+[32m+[m[32mecho -e '3. reverse (by ENTER: $file1; $file2)'[m
+[32m+[m[32mecho -e '4. strlen (by ENTER: $str)'[m
+[32m+[m[32mecho -e '5. log (output info about x.log file)'[m
+[32m+[m[32mecho -e '6. exit ($num)'[m
+[32m+[m[32mecho -e '7. help ($arg)'[m
+[32m+[m[32mecho -e '8. interactive ()'[m
+[32m+[m[32mecho -e '9. exit key 2 - нарушена целостность прилож.'[m
+[32m+[m[32mecho -e '10. exit key 2 - нарушен ввод аргументов'[m
+[32m+[m
+ }[m
+[41m+[m
+[41m+[m
+[1mdiff --git a/tasks/reverse.sh b/tasks/reverse.sh[m
+[1mindex e856577..6120488 100755[m
+[1m--- a/tasks/reverse.sh[m
+[1m+++ b/tasks/reverse.sh[m
+[36m@@ -1,15 +1,13 @@[m
+ #!/bin/bash[m
+ [m
+[31m-function reverse(){[m
+[31m-echo 'Write output file name and input file with enter'[m
+[31m-read file1[m
+[31m-read file2[m
+[31m-tac $file1 > $file2[m
+[31m-if [ -s $test13 ][m
+[32m+[m[32mfile1=$1[m
+[32m+[m[32mfile2=$2[m
+[32m+[m[32mtac "$file1" > "$file2"[m
+[32m+[m[32mif [[ -s "$file2" ]][m
+ then[m
+ echo "success"[m
+ else[m
+ echo "failed, sorry"[m
+[32m+[m[32mexit 1[m
+ fi[m
+[31m-}[m
+[31m-reverse[m
+[41m+[m
+[1mdiff --git a/tasks/search.sh b/tasks/search.sh[m
+[1mindex 516d1ad..5fb681a 100755[m
+[1m--- a/tasks/search.sh[m
+[1m+++ b/tasks/search.sh[m
+[36m@@ -6,6 +6,6 @@[m [mif grep -q "$reg" "$dir" ; then[m
+ grep -s "$reg" "$dir"[m
+ else[m
+ echo "not found"[m
+[32m+[m[32mexit 0[m
+ fi[m
+ }[m
+[31m-[m
+[1mdiff --git a/tasks/strlen.sh b/tasks/strlen.sh[m
+[1mindex f4b6cd9..e5c2c43 100755[m
+[1m--- a/tasks/strlen.sh[m
+[1m+++ b/tasks/strlen.sh[m
+[36m@@ -1,15 +1,11 @@[m
+ #!/bin/bash[m
+[31m-function strlen() {[m
+[31m-echo "Input str" [m
+[31m-read string[m
+[31m-echo ${#string}[m
+[31m-if [[ $string != 0 ]][m
+[32m+[m[32mstring="$@"[m
+[32m+[m[32mif [[ $# == 0 ]][m
+ then[m
+[31m-echo "succes"[m
+[31m-else[m
+[31m-echo "pls write string"[m
+[32m+[m[32mecho "error"[m
+[32m+[m[32mexit 0[m
+ fi[m
+[32m+[m[32mecho "${#string}"[m
+ exit 0[m
+[31m-}[m
+[31m-strlen[m
+[41m+[m
+ [m
+[1mdiff --git a/tasks/test1 b/tasks/test1[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8260547[m
+[1m--- /dev/null[m
+[1m+++ b/tasks/test1[m
+[36m@@ -0,0 +1,23 @@[m
+[32m+[m
+[32m+[m[32m}[m
+[32m+[m[32mfi[m
+[32m+[m[32mexit $1[m
+[32m+[m[32mecho $1[m
+[32m+[m[32mthen[m
+[32m+[m[32mif ! [ -z $1 ][m[41m [m
+[32m+[m
+[32m+[m[32mfi[m
+[32m+[m[32mecho "error not a number" >&2; exit 0[m
+[32m+[m[32mif ! [[ $1 =~ $re ]]; then[m
+[32m+[m
+[32m+[m[32mfi[m
+[32m+[m[32mexit 0[m
+[32m+[m[32mecho "0"[m
+[32m+[m[32mthen[m
+[32m+[m[32mif [ -z $1 ][m
+[32m+[m
+[32m+[m[32mre='^[0-9]+$'[m
+[32m+[m
+[32m+[m[32mnum=$1[m
+[32m+[m[32mfunction exit_() {[m
+[32m+[m[32m#!/bin/bash[m
+[1mdiff --git a/test11 b/test11[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/test13 b/test13[m
+[1mdeleted file mode 100644[m
+[1mindex 428f99d..0000000[m
+[1m--- a/test13[m
+[1m+++ /dev/null[m
+[36m@@ -1,10 +0,0 @@[m
+[31m-fi[m
+[31m-echo "failed, sorry"[m
+[31m-else[m
+[31m-echo "success"[m
+[31m-then[m
+[31m-if [ -s $test13 ][m
+[31m-tac $file1 > $file2[m
+[31m-read file2[m
+[31m-read file1[m
+[31m-#!/bin/bash[m
+[1mdiff --git a/test15 b/test15[m
+[1mdeleted file mode 100755[m
+[1mindex d0a4d41..0000000[m
+[1m--- a/test15[m
+[1m+++ /dev/null[m
+[36m@@ -1,10 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-echo "exit [Y,n]"[m
+[31m-echo "0 [X,n]"[m
+[31m-read input[m
+[31m-read num[m
+[31m-if [[ $input == "Y" || $input == "y" && $num == "X" || $num == "x" ]]; then[m
+[31m-exit 0[m
+[31m-else[m
+[31m-exit 1[m
+[31m-fi [m
+[1mdiff --git a/test16 b/test16[m
+[1mdeleted file mode 100755[m
+[1mindex d0a4d41..0000000[m
+[1m--- a/test16[m
+[1m+++ /dev/null[m
+[36m@@ -1,10 +0,0 @@[m
+[31m-#!/bin/bash[m
+[31m-echo "exit [Y,n]"[m
+[31m-echo "0 [X,n]"[m
+[31m-read input[m
+[31m-read num[m
+[31m-if [[ $input == "Y" || $input == "y" && $num == "X" || $num == "x" ]]; then[m
+[31m-exit 0[m
+[31m-else[m
+[31m-exit 1[m
+[31m-fi [m
+
+[33mcommit 789bc40b9853c22c065d5c95cd9964daac1f9761[m
+Author: user <user@localhost.localdomain>
+Date:   Wed Sep 23 21:14:07 2020 +0300
+
+    First commit
+
+[1mdiff --git a/.bash_history b/.bash_history[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fecfdb6[m
+[1m--- /dev/null[m
+[1m+++ b/.bash_history[m
+[36m@@ -0,0 +1,1000 @@[m
+[32m+[m[32mcmod u+x lab2[m
+[32m+[m[32mchmod u+x lab2[m
+[32m+[m[32m./lab2[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mnano lab2[m
+[32m+[m[32mchmod u+x lab2[m
+[32m+[m[32m./lab2[m
+[32m+[m[32mnano lab2[m
+[32m+[m[32mchmod u+x lab2[m
+[32m+[m[32m./lab2[m
+[32m+[m[32mnano lab2[m
+[32m+[m[32mchmod u+x lab2[m
+[32m+[m[32m./lab2[m
+[32m+[m[32mnano lab2[m
+[32m+[m[32mchmod lab1.2[m
+[32m+[m[32m./lab1.2[m
+[32m+[m[32mcmod u+x lab1.2[m
+[32m+[m[32mchmod u+x lab1.2[m
+[32m+[m[32m./lab1.2[m
+[32m+[m[32mnano lab2[m
+[32m+[m[32mnano lab1.2[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mnano lab1.2[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 #!/bin/bash ./*[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 #!/bin/bash lab1[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 #!/bin/bash lab1[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 #!/bin/bash lab1[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 #!/bin/bash lab1[m
+[32m+[m[32m./lab12 #!/bin/bash lab12[m
+[32m+[m[32mclear[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 #!/bin/bash lab1[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mtac --help[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano test13[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mclear][m
+[32m+[m[32mclear[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano test13[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano test13[m
+[32m+[m[32mnano lab4[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 sdnvjdv[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mclear[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14[m
+[32m+[m[32m./lab14 sdnvjdv[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 sdnvjdv[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 sdnvjdv[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 sdnvjdv[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 sdnvjdv[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 34[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 ergfb[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 ergfb[m
+[32m+[m[32m./lab14 34[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 ergfb[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 ergfb[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 ergfb[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 ergfb[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 ergfb[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14[m
+[32m+[m[32m./lab14 ffbe[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 ffbe[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 ffbe[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14[m
+[32m+[m[32msdf gfs[m
+[32m+[m[32mstrlen[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mnano lab2[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mnano lab11[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15 exit 4[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mexit[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32m1[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32m0[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mchmod u+x lab1[m
+[32m+[m[32m./lab1 sum 1 1[m
+[32m+[m[32mnano lab11[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mchmod u+x lab1[m
+[32m+[m[32m./lab1 sum 1 1[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mchmod u+x lab1[m
+[32m+[m[32m./lab1 sum 1 1[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mnano test15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mnano test15[m
+[32m+[m[32mchmod u+x test15[m
+[32m+[m[32m./teat15[m
+[32m+[m[32m./test15[m
+[32m+[m[32mnano test15[m
+[32m+[m[32mchmod u+x test15[m
+[32m+[m[32m./test15[m
+[32m+[m[32mnano test15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mnano test15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15[m
+[32m+[m[32m1[m
+[32m+[m[32m./lab15 1[m
+[32m+[m[32m./lab15 0[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mchmod u+x lab15[m
+[32m+[m[32m./lab15 1[m
+[32m+[m[32mnano test15[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mnano test15[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mchmod u+x lab1[m
+[32m+[m[32m./lab1 summ 1 1[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 A-Za-z[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 A-Za-z[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 A-Za-z[m
+[32m+[m[32m./lab12 A[m
+[32m+[m[32mclear[m
+[32m+[m[32m./lab12 3[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 3[m
+[32m+[m[32m./lab12 ~[m
+[32m+[m[32mclear[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mchmod u+x lab12[m
+[32m+[m[32m./lab12 ~[m
+[32m+[m[32m./lab12 3[m
+[32m+[m[32m./lab12 a-z[m
+[32m+[m[32m./lab12 A-Za-z[m
+[32m+[m[32m./lab12 $[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano test13[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano test13[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14[m
+[32m+[m[32m./lab14 sdfwv dsf[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14 strlen[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mchmod u+x lab14[m
+[32m+[m[32m./lab14[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mnano test16[m
+[32m+[m[32mchmod u+x test16[m
+[32m+[m[32m./test16[m
+[32m+[m[32mnano test16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32m./lab16 1[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16 1[m
+[32m+[m[32m./lab16[m[41m [m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16 exit[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16 exit[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16 exit[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16 exit[m
+[32m+[m[32m./lab16 exi[m
+[32m+[m[32m./lab16[m[41m [m
+[32m+[m[32m./lab16 0[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16[m[41m [m
+[32m+[m[32m./lab16 1[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16[m[41m [m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16[m[41m [m
+[32m+[m[32mdos2unix lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32msudo apt-get install dos2unix[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mchmod u+x lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mnano test16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mecho $?[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32m./lab16[m
+[32m+[m[32mnano lab17[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mnano lab17[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mnano lab17[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mnano lab17[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mchmod u+x lab13[m
+[32m+[m[32m./lab13[m
+[32m+[m[32mnano test13[m
+[32m+[m[32mnano lab17[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mnano lab17[m
+[32m+[m[32mchmod u+x lab17[m
+[32m+[m[32m./lab17[m
+[32m+[m[32mnano lab17[m
+[32m+[m[32m./lab17[m
+[32m+[m[32mnan0 lab18[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32mnano lab17[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32mchmod u+x lab18[m
+[32m+[m[32m./lab18[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32m./lab18[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32mchmod u+x lab18[m
+[32m+[m[32m./lab18 calc[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32mchmod u+x lab18[m
+[32m+[m[32m./lab18 calc[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32m./lab18 calc[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32mchmod +x lab18[m
+[32m+[m[32m./lab18 calc[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32mnano lab17[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32m./lab18 calc[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32m./lab18 calc[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32mxdg-open help[m
+[32m+[m[32mnano lab18[m
+[32m+[m[32mlocate lab18[m
+[32m+[m[32mwhereis lab18[m
+[32m+[m[32mreadlink -e lab18[m
+[32m+[m[32mnano lab1[m
+[32m+[m[32mlab12[m
+[32m+[m[32mnano lab12[m
+[32m+[m[32mnano lab13[m
+[32m+[m[32mnano lab14[m
+[32m+[m[32mnano lab15[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mnano strlen.sh[m
+[32m+[m[32mnano lab16[m
+[32m+[m[32mnano lab17[m
+[32m+[m[32mnano interactive.sh[m
+[32m+[m[32mnano calc.sh[m
+[32m+[m[32m./calc.sh[m
+[32m+[m[32m./calc.sh div 1 1[m
+[32m+[m[32mnano calc.sh[m
+[32m+[m[32m./calc.sh[m
+[32m+[m[32m./calc.sh sub 2 1[m
+[32m+[m[32mnano calc.sh[m
+[32m+[m[32m./calc.sh sub 2 1[m
+[32m+[m[32mchmod u+x calc.sh[m
+[32m+[m[32m./calc.sh sub 2 1[m
+[32m+[m[32mnano calc.sh[m
+[32m+[m[32m./calc.sh[m[41m [m
+[32m+[m[32m./calc.sh sub 2 1[m
+[32m+[m[32m./calc.sh[m[41m [m
+[32m+[m[32m./calc.sh sub 2 1[m
+[32m+[m[32mnano calc.sh[m
+[32m+[m[32m./calc.sh sub 2 1[m
+[32m+[m[32m./calc.sh calc[m
+[32m+[m[32msub 2 1[m
+[32m+[m[32mnano calc.sh[m
+[32m+[m[32m./calc.sh sub 2 1[m
+[32m+[m[32mnano calc.sh[m
+[32m+[m[32m./calc.sh sub 2 1[m
+[32m+[m[32m./calc.sh div 2 1[m
+[32m+[m[32mnano calc.sh[m
+[32m+[m[32mnano interactive.sh[m
+[32m+[m[32mnano calc.sh[m
+[32m+[m[32mnano interactive.sh[m
+[32m+[m[32mreadlink -e calc.sh[m
+[32m+[m[32mnano interactive.sh[m
+[32m+[m[32mnano calc.sh[m
+[32m+[m[32mnano interactive.sh[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m'create directory [user@localhost ~1$ sudo git clone https://github.com/loveuloveme/shell/blob/master/main.sh --depth 1 --branch 10.0 --single- branch /opt/main.sh 'download git online[m
+[32m+[m[32mmkdir /opt/main.sh 'create directory [user@localhost ~1$ sudo git clone https://github.com/loveuloveme/shell/blob/master/main.sh --depth 1 --branch 10.0 --single- branch /opt/main.sh 'download git online[m
+[32m+[m[32mclear[m
+[32m+[m[32mmkdir /opt/odoo 'create directory [user@localhost ~1$ sudo git clone https://github.com/loveuloveme/shell/blob/master/main.sh --depth 1 --branch 10.0 --single- branch /opt/odoo 'download git online[m
+[32m+[m[32mgit clone https://github.com/loveuloveme/shell/blob/master/main.sh[m[41m [m
+[32m+[m[32mgitclone https://github.com/loveuloveme/shell/blob/master/main.sh[m[41m [m
+[32m+[m[32msudo apt-get install git[m
+[32m+[m[32mroot[m
+[32m+[m[32mexit[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mchmod u+x main.sh[m
+[32m+[m[32m./main.sh strlen[m
+[32m+[m[32mclear[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh strlen[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh strlen[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano strlen.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh strlen[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh interactive[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh interactive[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh interactive[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh interactive[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh interactive[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh interactive[m
+[32m+[m[32m./main.sh revers[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh calc[m[41m [m
+[32m+[m[32m./main.sh calc div 2 2[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m
+[32m+[m[32m./main.sh help[m
+[32m+[m[32m./main.sh exit_[m
+[32m+[m[32m./main.sh exit_ 1[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh exit[m
+[32m+[m[32m./main.sh exit 1[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh exit 1[m
+[32m+[m[32m./main.sh help[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh log[m
+[32m+[m[32m./main.sh reverse[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse calc.sh test1[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse calc.sh test1[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano revers.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m[41m [m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mchmod u+x reverse.sh[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mls[m
+[32m+[m[32mnano test11[m
+[32m+[m[32mls[m
+[32m+[m[32mrm test11[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano revers.sh[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh[m
+[32m+[m[32mls[m
+[32m+[m[32mnano test11[m
+[32m+[m[32mls[m
+[32m+[m[32mnano test.11[m
+[32m+[m[32mls[m
+[32m+[m[32mrm test11[m
+[32m+[m[32mrm test.11[m
+[32m+[m[32mls[m
+[32m+[m[32mnano revers.sh[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh[m
+[32m+[m[32mnano test11[m
+[32m+[m[32mls[m
+[32m+[m[32mrm test11[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh[m
+[32m+[m[32mnano test[m
+[32m+[m[32mls[m
+[32m+[m[32mrm test[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mls[m
+[32m+[m[32mcd[m
+[32m+[m[32mls[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mls[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mls[m
+[32m+[m[32mcd[m
+[32m+[m[32mmain.sh[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32m./reverse.sh[m
+[32m+[m[32mls[m
+[32m+[m[32mnano test11[m
+[32m+[m[32mls[m
+[32m+[m[32mrm test11[m
+[32m+[m[32mrm main.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh reverse[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano test11[m
+[32m+[m[32mls[m
+[32m+[m[32mrm test11[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mls[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search a-z[m
+[32m+[m[32m./tasks[m
+[32m+[m[32m./main.sh search 1-9[m
+[32m+[m[32m./main.sh search a[m
+[32m+[m[32m./main.sh search read[m
+[32m+[m[32m./main.sh search [a-z]*[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh [a-z]*[m
+[32m+[m[32mchmod u+x search.sh[m
+[32m+[m[32m./search.sh [a-z]*[m
+[32m+[m[32m./search.sh [a-z][m
+[32m+[m[32m./search.sh [1-9][m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh [1-9[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32m./search.sh [1-9][m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32m./search.sh [a-z][m
+[32m+[m[32m./search.sh 1[m
+[32m+[m[32mclear[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mchmod u+x search.sh[m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh [a-z][m
+[32m+[m[32m./search.sh [a-z]*[m
+[32m+[m[32m./search.sh [1-9][m
+[32m+[m[32m./search.sh [1-9]*[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh [1-9]*[m
+[32m+[m[32m./search.sh [1-9][m
+[32m+[m[32m./search.sh [a-z]*[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh [a-z]*[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9[m
+[32m+[m[32m./search.sh[m[41m [m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search a-z[m
+[32m+[m[32m./tasks[m
+[32m+[m[32m./main.sh search a[m
+[32m+[m[32m./main.sh search 1-9[m
+[32m+[m[32m./main.sh search 1-9a-z[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9 ./*[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9[m[41m [m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32m./search.sh a[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh exit 1[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano exit.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano exit.sh[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh exit 1[m
+[32m+[m[32m./main.sh exit[m[41m [m
+[32m+[m[32m./main.sh exit 0[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh exit 0[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano exit.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh exit 1[m
+[32m+[m[32m./main.sh exit[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh exit[m[41m [m
+[32m+[m[32m./main.sh exit 1[m
+[32m+[m[32m./main.sh exit 2[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh exit[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh exit[m[41m [m
+[32m+[m[32m./main.sh exit 1[m
+[32m+[m[32m./main.sh exit 3[m
+[32m+[m[32m./main.sh exit 2[m
+[32m+[m[32m./main.sh exit 11[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano exit.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh help[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano help[m
+[32m+[m[32mnano help.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mnano reverse.sh[m
+[32m+[m[32mnano strlen.sh[m
+[32m+[m[32mnano sesrch.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mnano help.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh [1-9] /home/user/tasks[m
+[32m+[m[32m./search.sh [1-9]* /home/user/tasks[m
+[32m+[m[32m./search.sh [1-9]* /home/user[m
+[32m+[m[32m./search.sh [1-9]* /home/user/[m
+[32m+[m[32mnano search.sp[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh [1-9]*[m[41m [m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh [1-9]*[m[41m [m
+[32m+[m[32m[A[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh [1-9]* ./*[m
+[32m+[m[32m./search.sh [1-9]* /home/user/tasks[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks[m
+[32m+[m[32m./search.sh [1-9] /home/user/tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks[m
+[32m+[m[32m./search.sh a /home/user/tasks[m
+[32m+[m[32m./search.sh a-z cacl.sh[m
+[32m+[m[32m./search.sh a cacl.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32m./search.sh a[m
+[32m+[m[32m./search.sh 1[m
+[32m+[m[32m./search.sh[m[41m [m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1[m
+[32m+[m[32m./search.sh a-z[m
+[32m+[m[32m./search.sh a[m
+[32m+[m[32m./search.sh 1[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh a-z calc.sh[m
+[32m+[m[32mnano search.sh[m[41m [m
+[32m+[m[32m./search.sh a-z calc.sh[m
+[32m+[m[32mnano search.sh[m[41m [m
+[32m+[m[32m./search.sh a-z calc.sh[m
+[32m+[m[32m./search.sh a calc.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32mnano search.sh[m[41m [m
+[32m+[m[32mnano log.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search[m[41m [m
+[32m+[m[32m./main.sh search a-z lab1[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32m./search.sh 1 lab12[m
+[32m+[m[32m./search 1 lab12[m
+[32m+[m[32m./search.sh[m
+[32m+[m[32m./search.sh 1 /home/user/calc.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 /home/user/calc.sh[m
+[32m+[m[32m./search.sh 1 ./*[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32m./search.sh 1 lab14[m
+[32m+[m[32m./search.sh 1 main.sh[m
+[32m+[m[32m./search.sh[m[41m [m
+[32m+[m[32m./search.sh 1[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search 1 lab12[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search 1 lab12[m
+[32m+[m[32m./main.sh search 1 calc.sh[m
+[32m+[m[32m./main.sh search 1 /home/user/tasks/calc.sh[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mcd[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search 1 /home/user/tasks/calc.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mcd[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search 1 /home/user/tasks/search.sh[m
+[32m+[m[32m./main.sh search 1 /home/user/tasks/strlen.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search 1 /home/user/tasks/search.sh[m
+[32m+[m[32m./main.sh search 1 /home/user/tasks/calc.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32m./search.sh 1 ./*[m
+[32m+[m[32m./search.sh 1 /home/user/tasks/calc.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 /home/user/tasks/calc.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32m./search.sh 1[m[41m [m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32m./search.sh 1[m[41m [m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32m./search.sh 1 main.sh[m
+[32m+[m[32m./search.sh 1 lab12.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 main.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32m./search.sh 1 /home/user/tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1 /home/user/tasks[m
+[32m+[m[32m./search.sh 1 calc.sh[m
+[32m+[m[32mchmod u+x search.sh[m
+[32m+[m[32m./search.sh 1-9 cals.sh[m
+[32m+[m[32m./search.sh [1-9] cals.sh[m
+[32m+[m[32m./search.sh [1-9] calc.sh[m
+[32m+[m[32m./search.sh 1-9 calc.sh[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks/calc.sh[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32m./search.sh 1-9 /home/user/tasks/calc.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search 1 /home/user/tasks/calc.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mcd[m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search 1 /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search a-z /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search a /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search [a-z]* /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search [a-z]*  /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search a-z /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search a-z /home/user/tasks/search.sh[m
+[32m+[m[32m./main.sh search a-b /home/user/tasks/search.sh[m
+[32m+[m[32m./main.sh search A-Za-z /home/user/tasks/search.sh[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mnano search.sh[m
+[32m+[m[32mcd[m[41m [m
+[32m+[m[32mnano main.sh[m
+[32m+[m[32m./main.sh search [a-z] /home/user/tasks/search.sh[m
+[32m+[m[32m./main.sh search [a-z] /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search [a-z]* /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search [a] /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search [1-9]* /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search [1-9] /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search [a-z1-9] /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search [a1-9] /home/user/tasks/calc.sh[m
+[32m+[m[32m./main.sh search [a-z][1-9] /home/user/tasks/calc.sh[m
+[32m+[m[32md[m
+[32m+[m[32mcd[m
+[32m+[m[32mls[m
+[32m+[m[32mcd catalog[m
+[32m+[m[32mls[m
+[32m+[m[32mcd[m
+[32m+[m[32mrm catalog[m
+[32m+[m[32mexexit[m
+[32m+[m[32meixt[m
+[32m+[m[32mexit[m
+[32m+[m[32msudo apt-get install git[m
+[32m+[m[32mexit[m
+[32m+[m[32mcd[m
+[32m+[m[32mls[m
+[32m+[m[32mcd tasks[m
+[32m+[m[32mgit init[m
+[32m+[m[32m/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"[m
+[32m+[m[32mbrew install git[m
+[32m+[m[32mcd/home/user/share/git[m
+[32m+[m[32mgit init[m
+[32m+[m[32mexit[m
+[1mdiff --git a/.bash_logout b/.bash_logout[m
+[1mnew file mode 100644[m
+[1mindex 0000000..af7c6fd[m
+[1m--- /dev/null[m
+[1m+++ b/.bash_logout[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# ~/.bash_logout[m
+[32m+[m
+[1mdiff --git a/.bash_profile b/.bash_profile[m
+[1mnew file mode 100644[m
+[1mindex 0000000..55136b9[m
+[1m--- /dev/null[m
+[1m+++ b/.bash_profile[m
+[36m@@ -0,0 +1,8 @@[m
+[32m+[m[32m# .bash_profile[m
+[32m+[m
+[32m+[m[32m# Get the aliases and functions[m
+[32m+[m[32mif [ -f ~/.bashrc ]; then[m
+[32m+[m	[32m. ~/.bashrc[m
+[32m+[m[32mfi[m
+[32m+[m
+[32m+[m[32m# User specific environment and startup programs[m
+[1mdiff --git a/.bashrc b/.bashrc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..68854a1[m
+[1m--- /dev/null[m
+[1m+++ b/.bashrc[m
+[36m@@ -0,0 +1,15 @@[m
+[32m+[m[32m# .bashrc[m
+[32m+[m
+[32m+[m[32m# Source global definitions[m
+[32m+[m[32mif [ -f /etc/bashrc ]; then[m
+[32m+[m	[32m. /etc/bashrc[m
+[32m+[m[32mfi[m
+[32m+[m
+[32m+[m[32m# User specific environment[m
+[32m+[m[32mPATH="$HOME/.local/bin:$HOME/bin:$PATH"[m
+[32m+[m[32mexport PATH[m
+[32m+[m
+[32m+[m[32m# Uncomment the following line if you don't like systemctl's auto-paging feature:[m
+[32m+[m[32m# export SYSTEMD_PAGER=[m
+[32m+[m
+[32m+[m[32m# User specific aliases and functions[m
+[1mdiff --git a/.elinks/bookmarks b/.elinks/bookmarks[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/.elinks/cookies b/.elinks/cookies[m
+[1mnew file mode 100644[m
+[1mindex 0000000..07244cf[m
+[1m--- /dev/null[m
+[1m+++ b/.elinks/cookies[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m[32mCGIC	IgMqLyo	www.google.com	/search/	google.com	1614375769	0[m
+[32m+[m[32m1P_JAR	2020-08-30-21	www.google.com	/	google.com	1601415769	1[m
+[32m+[m[32mNID	204=iWmYBXPseAEmf9HKhLFRbDvyQfRv2boOuZSDpCyur-UNm9CojvpLfVXLVXLFAFWTuOdgloO8FnukJfFjspThxOxnxh7BUEd0CeVmb5eIB192bpKtWNY0rOLxJ1yPp4aQPgJ-icVOrRXjakm-IIle47v9O0KpVP220YTGziMtI24	www.google.com	/	google.com	1614633184	0[m
+[32m+[m[32myandexuid	2048605171598821970	www.yandex.ru	/	yandex.ru	1914181970	0[m
+[32m+[m[32myp	1601413970.ygu.1	yandex.ru	/	yandex.ru	1914181970	0[m
+[32m+[m[32mmda	0	yandex.ru	/	yandex.ru	1609189970	0[m
+[32m+[m[32myandex_gid	2	yandex.ru	/	yandex.ru	1601413970	0[m
+[32m+[m[32mi	4U7D+lG49PeitbJJTJ9v3oCBnLopgsp9XQAyUzaVJ3f+6U+7drzqfQ3IfSHjiAw3Y344TjJbVVFQJDKhMdqhDkCONIc=	yandex.ru	/	yandex.ru	1661893970	1[m
+[32m+[m[32mWMF-Last-Access	30-Aug-2020	ru.wikipedia.org	/	ru.wikipedia.org	1601553600	1[m
+[32m+[m[32mWMF-Last-Access-Global	30-Aug-2020	ru.wikipedia.org	/	wikipedia.org	1601553600	1[m
+[1mdiff --git a/.elinks/elinks.conf b/.elinks/elinks.conf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..641f03b[m
+[1m--- /dev/null[m
+[1m+++ b/.elinks/elinks.conf[m
+[36m@@ -0,0 +1,51 @@[m
+[32m+[m[32m## ELinks 0.12pre6 configuration file[m
+[32m+[m
+[32m+[m[32m## This is ELinks configuration file. You can edit it manually,[m
+[32m+[m[32m## if you wish so; this file is edited by ELinks when you save[m
+[32m+[m[32m## options through UI, however only option values will be altered[m
+[32m+[m[32m## and missing options will be added at the end of file; if option[m
+[32m+[m[32m## is not written in this file, but in some file included from it,[m
+[32m+[m[32m## it is NOT counted as missing. Note that all your formatting,[m
+[32m+[m[32m## own comments and so on will be kept as-is.[m
+[32m+[m[32m##[m
+[32m+[m[32m## Obviously, if you don't like what ELinks is going to do with[m
+[32m+[m[32m## this file, you can change it by altering the config.saving_style[m
+[32m+[m[32m## option. Come on, aren't we friendly guys after all?[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m[32m##############################[m
+[32m+[m[32m# Automatically saved options[m
+[32m+[m[32m#[m
+[32m+[m
+[32m+[m[32m## config[m[41m [m
+[32m+[m[32m#  Configuration handling options.[m
+[32m+[m
+[32m+[m[32m  ## config.saving_style_w [0|1][m
+[32m+[m[32m  #  This is internal option used when displaying a warning about obsolete[m
+[32m+[m[32m  #  config.saving_style. You shouldn't touch it.[m
+[32m+[m[32m  set config.saving_style_w = 1[m
+[32m+[m
+[32m+[m
+[32m+[m[32m## document[m[41m [m
+[32m+[m[32m#  Document options.[m
+[32m+[m
+[32m+[m[32m  ## document.codepage[m[41m [m
+[32m+[m[32m  #  Charset options.[m
+[32m+[m
+[32m+[m[32m    ## document.codepage.assume <codepage>[m
+[32m+[m[32m    #  Default document codepage. 'System' stands for a codepage determined by a[m
+[32m+[m[32m    #  selected locale.[m
+[32m+[m[32m    set document.codepage.assume = "koi8-r"[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m[32m## ui[m[41m [m
+[32m+[m[32m#  User interface options.[m
+[32m+[m
+[32m+[m[32m  ## ui.language <language>[m
+[32m+[m[32m  #  Language of user interface. 'System' means that the language will be[m
+[32m+[m[32m  #  extracted from the environment dynamically.[m
+[32m+[m[32m  set ui.language = "System"[m
+[32m+[m
+[32m+[m
+[1mdiff --git a/.elinks/globhist b/.elinks/globhist[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4de984d[m
+[1m--- /dev/null[m
+[1m+++ b/.elinks/globhist[m
+[36m@@ -0,0 +1,7 @@[m
+[32m+[m[32mВикипедия — свободная энциклопедия	https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0	1598821997[m
+[32m+[m[32mhttp://doika.ru/	http://doika.ru/	1598822435[m
+[32m+[m[32mFIOLANA.RU Международная служба знакомств	http://fiolana.ru/ru	1598822436[m
+[32m+[m[32mЯндекс	https://yandex.ru/	1598823714[m
+[32m+[m[32mGoogle	http://www.google.com/	1598823750[m
+[32m+[m[32mCentOS - Поиск в Google	http://www.google.com/search?ie=ISO-8859-1&hl=ru&source=hp&q=CentOS&iflsig=AINFCbYAAAAAX0wrXDdik5zaz-Vv0eh40U3edAHbXunN&gbv=1	1598823763[m
+[32m+[m[32mCentOS — Википедия	https://ru.wikipedia.org/wiki/CentOS	1598823771[m
+[1mdiff --git a/.elinks/gotohist b/.elinks/gotohist[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9dff707[m
+[1m--- /dev/null[m
+[1m+++ b/.elinks/gotohist[m
+[36m@@ -0,0 +1,3 @@[m
+[32m+[m[32mwww.yandex.ru[m
+[32m+[m[32mwww.yanex.ru[m
+[32m+[m[32mwww.google.com[m
+[1mdiff --git a/.zshrc b/.zshrc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9935bec[m
+[1m--- /dev/null[m
+[1m+++ b/.zshrc[m
+[36m@@ -0,0 +1,34 @@[m
+[32m+[m[32m#[m
+[32m+[m[32m# .zshrc is sourced in interactive shells.[m
+[32m+[m[32m# It should contain commands to set up aliases,[m
+[32m+[m[32m# functions, options, key bindings, etc.[m
+[32m+[m[32m#[m
+[32m+[m
+[32m+[m[32mautoload -U compinit[m
+[32m+[m[32mcompinit[m
+[32m+[m
+[32m+[m[32m#allow tab completion in the middle of a word[m
+[32m+[m[32msetopt COMPLETE_IN_WORD[m
+[32m+[m
+[32m+[m[32m## keep background processes at full speed[m
+[32m+[m[32m#setopt NOBGNICE[m
+[32m+[m[32m## restart running processes on exit[m
+[32m+[m[32m#setopt HUP[m
+[32m+[m
+[32m+[m[32m## history[m
+[32m+[m[32m#setopt APPEND_HISTORY[m
+[32m+[m[32m## for sharing history between zsh processes[m
+[32m+[m[32m#setopt INC_APPEND_HISTORY[m
+[32m+[m[32m#setopt SHARE_HISTORY[m
+[32m+[m
+[32m+[m[32m## never ever beep ever[m
+[32m+[m[32m#setopt NO_BEEP[m
+[32m+[m
+[32m+[m[32m## automatically decide when to page a list of completions[m
+[32m+[m[32m#LISTMAX=0[m
+[32m+[m
+[32m+[m[32m## disable mail checking[m
+[32m+[m[32m#MAILCHECK=0[m
+[32m+[m
+[32m+[m[32m# autoload -U colors[m
+[32m+[m[32m#colors[m
+[1mdiff --git a/error.sh b/error.sh[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2303ab4[m
+[1m--- /dev/null[m
+[1m+++ b/error.sh[m
+[36m@@ -0,0 +1,5 @@[m
+[32m+[m[32m#!/bin/bash[m
+[32m+[m[32mfunction err(){[m
+[32m+[m[32m>&2 echo "Error: $1";[m
+[32m+[m[32m[[ $connect -eq 0 ]] && exit $2;[m
+[32m+[m[32m}[m
+[1mdiff --git a/interactive.sh b/interactive.sh[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a8ce942[m
+[1m--- /dev/null[m
