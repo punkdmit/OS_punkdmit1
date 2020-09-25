@@ -1,0 +1,8 @@
+catalog test was created successfully
+2020-09-25_17-00-25 the host unreacheble
+2020-09-25_17-00-39 the host unreacheble
+2020-09-25_17-59-12 the host unreacheble
+2020-09-25_18-00-49 the host unreacheble
+2020-09-25_18-02-00 the host unreacheble
+2020-09-25_18-02-00 the host unreacheble
+2020-09-25_18-10-00 the host unreacheble
