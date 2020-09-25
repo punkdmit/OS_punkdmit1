@@ -1,30 +1,30 @@
 #!/bin/bash
-source ~/tasks/error.sh
+source ./tasks/error.sh
 Menu() {
 echo -e "MENU:\nc - calc\ns - search\nr - reverse\nst - strlen\nl - log\ne - exit\nh - help"
 echo "INPUT KEY:"
 read key
 case "$key" in
 calc | c)
- ~/interact/calc.sh
+ ./interact/calc.sh
 ;;
 search | s)
-~/interact/search.sh
+./interact/search.sh
 ;;
 strlen | st)
-~/interact/strlen.sh
+./interact/strlen.sh
 ;;
 log | l)
-~/interact/log.sh
+./interact/log.sh
 ;;
 exit | e)
-~/interact/exit.sh
+./interact/exit.sh
 ;;
 reverse | r)
-~/interact/reverse.sh
+./interact/reverse.sh
 ;;
 help | h)
-~/interact/help.sh
+./interact/help.sh
 ;;
 *)
 clear
