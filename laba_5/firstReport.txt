@@ -11,6 +11,7 @@ Leader processes
       4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
 
 
+
 Date: 02:08:05 AM
 Info about memory:
 MiB Mem : 1827.1 total, 1437.2 free, 323.3 used, 66.6 buff/cache MiB Swap: 820.0 total, 735.1 free, 84.9 used. 1397.0 avail Mem
